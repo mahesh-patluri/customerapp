@@ -1,2 +1,2 @@
-# customer-app
+# customerapp
 Customer Application 
